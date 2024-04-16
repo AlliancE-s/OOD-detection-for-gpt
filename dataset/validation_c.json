@@ -1,0 +1,2216 @@
+[
+    {
+        "sbert_similarity": 0.2957274913787842,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.2957274913787842,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6843522191047668,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4524286010767977,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.11935390532016754,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43372651114829475,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.15045534074306488,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42692398895390293,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.3257082402706146,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4523319569729616,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.18440574407577515,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4579451463361554,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2613292932510376,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.2613292932510376,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.3838709890842438,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4762155323532179,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3814653158187866,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.444426614995361,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.4341058135032654,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4581902531955713,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.1726946234703064,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.45085535172221747,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.37003952264785767,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.48202246509732694,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5731198787689209,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4396077947944309,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.23293647170066833,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4430168185991604,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.16574063897132874,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4436082616017211,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2872525453567505,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4456701562268191,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.19160406291484833,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.19160406291484833,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.1212296187877655,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.41804180866638607,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.12277910858392715,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4659470683431513,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4331401288509369,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4331401288509369,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4619690775871277,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4789165820649394,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5887926816940308,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4509135849368181,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.26155829429626465,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.46251052209486576,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.5467722415924072,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.45833422041933225,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.17106756567955017,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43077999787754323,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.7522278428077698,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.7522278428077698,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.0047011952847242355,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4512238500688866,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.7200051546096802,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43838908695224216,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.12321486324071884,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4841106912324423,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.49023008346557617,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4347273589090934,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.03403142839670181,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4257987051841062,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4480985403060913,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.42271934866879607,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.20778140425682068,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4362232333502517,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.05448104441165924,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4429575322289813,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3959631025791168,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.47060034571055487,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5127003192901611,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.5127003192901611,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3212737441062927,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44764582402540076,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.20198427140712738,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42561637057192264,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.19782640039920807,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43282109297787,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2826588451862335,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4342765747457587,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.0845770314335823,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4465931531610115,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.5200785398483276,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.5200785398483276,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6407593488693237,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4765614946518874,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.014631976373493671,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.40692078747761296,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.10535280406475067,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43951555183807234,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.45673999190330505,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4292712198234741,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2565787434577942,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43973871036409595,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.209151953458786,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43268913609256254,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.24017703533172607,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4511738631508892,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3164368271827698,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.3164368271827698,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.35122498869895935,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44905369652535443,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.12453924864530563,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4239628253696501,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2371918261051178,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4549865669145543,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.24769188463687897,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5354849510238556,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6939000487327576,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4210827029837662,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.34054675698280334,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.47102316045608655,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.38746532797813416,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4442916700338711,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2913048267364502,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.2913048267364502,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2221643477678299,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.46695237609207124,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.08404409885406494,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44603126474506066,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.22854746878147125,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4828889792810035,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.29520899057388306,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43701335439134487,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.37293973565101624,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.49668234737608374,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5283417701721191,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4889945957718686,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": -0.0005785077810287476,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4272301523737827,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2784351110458374,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4332601844865317,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.10747338086366653,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43764962586419287,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.06819819658994675,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4168629626189267,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.29085803031921387,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.49182101952217355,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5812973976135254,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42817486443870484,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.46796801686286926,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4287558522560577,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5686061382293701,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.5686061382293701,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6864098906517029,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.47169489975766726,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.41955044865608215,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44628658142628125,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.8844389915466309,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4297591175232475,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2332070916891098,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.41291379716356735,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6344553828239441,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4633462203208952,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.337292343378067,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4505502971540232,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.3769383728504181,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.47319075075559863,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.19668838381767273,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.19668838381767273,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3923141658306122,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.488138029853663,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.07519783079624176,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4179040053590065,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.0736994668841362,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4214007410702792,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.29875585436820984,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.44835171619557257,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.19244764745235443,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43679336262816315,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.10659438371658325,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4549269699957518,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.8271331191062927,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.5110673295928962,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.07623697817325592,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43645719743954525,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.35462522506713867,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.42252669195781517,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4532049596309662,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.49420373456392164,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.1916074901819229,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4208943536703851,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.1490011066198349,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4664300801329119,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.17349399626255035,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.17349399626255035,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.34877246618270874,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4391494158571267,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2673953175544739,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4354747980300339,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.20775799453258514,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.46229395882825697,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.09768784791231155,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.09768784791231155,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.4849836528301239,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.429084548570961,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.653479814529419,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.439032982059701,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.33387312293052673,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.42886688644535437,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.31650272011756897,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4659219884444888,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.13924282789230347,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44651547296369687,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.06360005587339401,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44592621170882096,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.042931754142045975,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43230533729322657,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.1047903373837471,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43892200674605797,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.3182034194469452,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.3182034194469452,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2710564136505127,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44774509508713756,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.37345898151397705,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42259391199669966,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.7777577042579651,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4448897581822886,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4235876500606537,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.48164477126302147,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.31800615787506104,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4531082415016423,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.4238812327384949,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4238812327384949,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3517554700374603,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4568218812712872,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": -0.023145614191889763,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44441667569143667,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.21891336143016815,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.41061421591263325,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.18721312284469604,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.41952241504369575,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.619895339012146,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4320431533077486,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.025450479239225388,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4150115048427708,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.5592809915542603,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.42773875592272764,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.296631395816803,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.45972706688250226,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.9267837405204773,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.9267837405204773,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5683603286743164,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.5340223791637085,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.06222854182124138,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42918967646985523,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.5226520299911499,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.46918133695979264,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.8085414171218872,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44137227952954544,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.47221827507019043,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.5148263302787978,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.33174607157707214,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.44795184560284834,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.24469615519046783,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4921852255823964,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.15613383054733276,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4515187316927887,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.15059944987297058,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4194412014128267,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.48200586438179016,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42671162919514904,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6452203989028931,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.6452203989028931,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.17137932777404785,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42561738231434454,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.20448268949985504,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4569142644326623,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3211590647697449,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4687102959651524,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.29479488730430603,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.42415879378872745,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5927262306213379,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.44520268854891537,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5004891753196716,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4570598201746755,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4033314883708954,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4368124413334191,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.8392605781555176,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.8392605781555176,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3012450635433197,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4675653417421749,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.1604551523923874,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4423799525283163,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.7993046045303345,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4211855702404353,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.22825196385383606,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5001828556793374,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6500982642173767,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5019750188798919,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4057345688343048,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.5029743142727233,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.33329346776008606,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4402450868249357,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3697388470172882,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.3697388470172882,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.36537599563598633,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.45985475994832786,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.642137348651886,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.47841049051284074,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.752508819103241,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.46338159187215894,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2995665371417999,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5122544018599731,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.24693351984024048,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.46094112539930193,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.4897071421146393,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4897071421146393,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.17541807889938354,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44510824364666485,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.234079971909523,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4368504521526091,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.15765011310577393,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4248535609458894,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.3542245626449585,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42168176407614333,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.29174017906188965,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4724811073161056,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2875669598579407,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4806663414882977,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.2626807987689972,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.454382522721276,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.1817862093448639,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4468971308541918,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4098447859287262,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4371625426932479,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.7598005533218384,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.7598005533218384,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.32094836235046387,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5344578180376999,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4092303514480591,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.488652069984817,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.36478203535079956,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4476746801830647,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6273688673973083,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4300646418496496,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6224507689476013,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.5229679953278161,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4199773967266083,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.42714873369858025,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.09915340691804886,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4567961149867235,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.474568247795105,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.474568247795105,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.36306139826774597,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4743717119321447,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.30953308939933777,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43336588163407774,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.06046081706881523,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4217007614929195,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.3494826853275299,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.443673815899485,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5441136360168457,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4455045755933042,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5905573964118958,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.5905573964118958,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.553046464920044,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.48045130093120864,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.22294406592845917,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42863057339606864,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.17198136448860168,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.43678994739932914,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.7594931721687317,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43242438223602314,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.16892117261886597,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4786777063232759,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2981176972389221,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.48370347061232044,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.15510214865207672,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5052489492703658,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3334348499774933,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4433274740434827,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.14482955634593964,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4353921044937016,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3756086528301239,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.3756086528301239,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3320549726486206,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4631924518170528,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.13847368955612183,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4331654555213673,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3219568431377411,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.435674044092407,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.39642518758773804,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.39642518758773804,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5490410923957825,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4690981012049969,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3184313178062439,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4409432979662708,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3008411228656769,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4379037115939458,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.7655568718910217,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4411576532519465,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.053147874772548676,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4172354707060696,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.33557039499282837,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4164257429516174,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2000245451927185,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.43256019383783373,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.28574246168136597,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43597461499071744,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.12162540853023529,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.12162540853023529,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.6800006031990051,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.45139940573217446,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.14014972746372223,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43790663302201127,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.410762757062912,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.410762757062912,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.23022952675819397,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.46078462243558044,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.300786554813385,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4515965032922405,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6134774088859558,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4269937347361418,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.17363253235816956,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43522490028120303,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6052631139755249,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44109864270073046,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4293304681777954,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44696526175057666,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.7151970863342285,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.7151970863342285,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.19459465146064758,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.47568748374918624,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5030345320701599,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.43770992622922505,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.1578705757856369,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.46409798034723926,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.24968048930168152,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4266537760343083,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.279773086309433,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4781438435190634,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3936528265476227,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.3936528265476227,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.1314302384853363,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44036889349764546,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.30582648515701294,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.47443971369825466,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.43494921922683716,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44870703605906676,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.7018888592720032,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.45934695213811755,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.339167982339859,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44623776439450774,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.30122414231300354,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.30122414231300354,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.5314565300941467,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.45436910484599824,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5053694844245911,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4362703824590228,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.29222506284713745,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4275706791207766,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2370511144399643,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.2370511144399643,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.30589476227760315,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.47002618848904165,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3778892755508423,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4589467433375903,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5108240246772766,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44968839835414975,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.40948066115379333,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4354480938023976,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": -0.008820799179375172,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42876461971354823,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.7795354723930359,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.7795354723930359,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.30916380882263184,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4293968237558174,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.16523104906082153,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44699675857981136,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.7489097118377686,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.42699092615376877,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.24210622906684875,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44169467938287416,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.21257880330085754,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4293969393341366,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.45439350605010986,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4321109160111881,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.19775816798210144,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.19775816798210144,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5840816497802734,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.42294036173878136,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2911236584186554,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.44264977700521413,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.48158684372901917,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5055153447398508,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3941342234611511,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4434319060875051,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.2942650616168976,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4570080627519039,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.33461880683898926,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4491795810511085,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2305477261543274,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.2305477261543274,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6394952535629272,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5071629387204454,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.12768834829330444,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4382418935217666,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.5761743187904358,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4477779963705503,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.1895410567522049,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4581247371443824,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.38047710061073303,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5552098256867378,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6174041032791138,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4159130315365789,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2939069867134094,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.2939069867134094,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6600474119186401,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4488810870356655,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.1844480186700821,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.45309017280598224,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.14715221524238586,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.45202339578179856,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.45254209637641907,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4173816099888887,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.25958168506622314,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4673135634470455,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.16470792889595032,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44059366983738796,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.13510872423648834,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.13510872423648834,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.5965358018875122,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4283309059280354,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.1838381588459015,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4351457380214874,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.8535816073417664,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.8535816073417664,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5167754888534546,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4529575830254499,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.18893416225910187,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42443438755935725,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.3820992112159729,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43613058612514305,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.30911287665367126,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.438668355146038,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.11531171202659607,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4290804622637784,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.7355071306228638,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.7355071306228638,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5123931169509888,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.517051245410863,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2959561049938202,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43947560363668464,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.48618564009666443,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4440006346085401,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5899229645729065,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.47690625012498433,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.12483581900596619,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.46811189654092233,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.35005491971969604,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4317872501824905,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.16302840411663055,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.43783033470954974,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6865805983543396,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.6865805983543396,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6460146903991699,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5321208073275158,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4466382563114166,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4866144652676486,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.7356199622154236,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4368671841066522,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4668636620044708,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.516050179931184,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3605162501335144,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4551402813925913,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.42247262597084045,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4716021081026865,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4335409700870514,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.45572995488227397,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.407819002866745,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.6476082354530004,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.8089593052864075,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.8089593052864075,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.16683724522590637,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.422657912263046,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.6808608770370483,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4718345557391795,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.38666823506355286,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5752395594685081,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.719909131526947,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.524637940229851,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3480059504508972,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4225694472544075,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4175935983657837,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.5022212542964586,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6327476501464844,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.6327476501464844,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.313601553440094,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5170506649647516,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2747100591659546,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4424916035879372,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.2541689872741699,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.45384251762250954,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.11711088567972183,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.48831659505611835,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6282457113265991,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4437024063949692,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5599746108055115,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4531686336251171,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.07377179712057114,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4352368438892263,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.6902380585670471,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.6902380585670471,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.31797197461128235,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.46209107625761414,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.35548555850982666,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4261334452211137,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.45594802498817444,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.46875358004284745,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.46238797903060913,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4554816063649023,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.49607664346694946,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4419347184895895,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.274801641702652,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4599138987351678,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.38483431935310364,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.38483431935310364,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.300809383392334,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43744510556456057,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.10691441595554352,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.44142897289506333,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4791480302810669,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43061731094786115,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.24696476757526398,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.5088230910610628,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.1865694373846054,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.46951431030863994,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.21828655898571014,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4479497415056346,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3492576479911804,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.3492576479911804,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.6302394270896912,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42711909176227647,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6889787912368774,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.5804922788464476,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.18698666989803314,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43674893745057974,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.7160993814468384,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42446745477278996,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.15758784115314484,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.5323706782564855,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.370034784078598,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5191304416140584,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2790786027908325,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5051005262807736,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.520180881023407,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4927604189706903,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3765929937362671,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.459454939674748,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.20782937109470367,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.439554379217773,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.08523816615343094,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4650790681203947,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.12801942229270935,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.12801942229270935,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.1335802972316742,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4218151206075558,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6667478680610657,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.49435409325620444,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6294220685958862,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4617074257026054,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4829816222190857,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4445318854577187,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.38717368245124817,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.425195118420677,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2897295355796814,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4438650201251633,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.27553027868270874,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.45931281878711094,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.23967747390270233,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.23967747390270233,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.29330122470855713,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.47201832619099093,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.3788550794124603,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42874852923134216,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4066336452960968,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4518031810124198,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.32825782895088196,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.5625367110371666,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3634219765663147,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42334451671133205,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.4826987087726593,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.49970098631215765,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.706913411617279,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.706913411617279,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3152444660663605,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42294039944461936,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.7223132848739624,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.448860981685719,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2751031816005707,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4641904109583087,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.5773748755455017,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.450396312597682,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.381928414106369,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.43626095059774417,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5064915418624878,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5064915418624878,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.29840782284736633,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.5075039268845003,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.4346112012863159,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4677065287490662,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.43681105971336365,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4798005066354512,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.27604374289512634,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4520021816680459,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.6220484375953674,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.6220484375953674,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5071023106575012,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4558418937370617,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3682870864868164,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.42090029873261775,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.7102116346359253,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.4421501112188941,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5304304361343384,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.500682759978004,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.29865607619285583,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4701193843385649,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.3737044036388397,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.42525398591553687,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.13434161245822906,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4214415895208395,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5204293727874756,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.5204293727874756,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5902385115623474,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.47240356060431876,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.2763633131980896,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.46828445040957384,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.43630656599998474,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4977218701495319,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.44329577684402466,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5203132281260406,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.5590741038322449,
+        "sentiment_match": 1,
+        "time_series_similarity": 0.5188716352337933,
+        "ood": 1
+    },
+    {
+        "sbert_similarity": 0.31254181265830994,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.44372235048464953,
+        "ood": 0
+    },
+    {
+        "sbert_similarity": 0.17449763417243958,
+        "sentiment_match": 0,
+        "time_series_similarity": 0.4440235160579392,
+        "ood": 1
+    }
+]
